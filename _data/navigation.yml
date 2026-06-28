@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: "/"
+
+  - title: "Publications"
+    url: "/publications/"
+
+  - title: "Projects & Awards"
+    url: "/projects-awards/"
+
+  - title: "Students"
+    url: "/students/"
+
+  - title: "CV"
+    url: "/CV/Resume_BingbingJiang.pdf"

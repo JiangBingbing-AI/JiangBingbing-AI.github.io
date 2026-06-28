@@ -1,0 +1,21 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+
+          {% assign nav_links = site.data.navigation.main %}
+
+          {% for link in nav_links %}
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
