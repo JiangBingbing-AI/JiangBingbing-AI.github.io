@@ -11,9 +11,9 @@ author_profile: true
 <span class='anchor' id='hosted-projects'></span>
 ## Research Projects
 
-- Zhejiang Provincial Exploratory Youth Project, 2026. (participant)
+- Zhejiang Provincial Exploratory Youth Project, 2026. (PI)
 - Key Technologies for Massive Multi-modal Data Collection and Governance (2023C01022), Key Research and Development Program of Zhejiang Province. (participant)
-- Bayesian Learning Methods for Supervised and Semi-supervised Learning (62006065), National Natural Science Foundation of China Young Scientists Fund, 2021-2023. (participant)
+- Bayesian Learning Methods for Supervised and Semi-supervised Learning (62006065), National Natural Science Foundation of China Young Scientists Fund, 2021-2023. (PI)
 - Pattern Recognition and Sensitive Content Mining for Management and Decision Big Data (91746209), National Natural Science Foundation of China Key Program. (participant)
 - Fundamental Theory and Applications of Big Data Knowledge Engineering (2016YFB1000905), National Key Research and Development Program of China. (participant)
 
