@@ -1,12 +1,29 @@
-from scholarly import scholarly
-import jsonpickle
+from scholarly import scholarly, ProxyGenerator
 import json
 from datetime import datetime
 import os
 
+
+def configure_proxy():
+    scraper_api_key = os.environ.get('SCRAPER_API_KEY')
+    if scraper_api_key:
+        proxy = ProxyGenerator()
+        proxy.ScraperAPI(scraper_api_key)
+        scholarly.use_proxy(proxy)
+        print('Using ScraperAPI proxy for Google Scholar requests.')
+        return
+
+    if os.environ.get('SCHOLARLY_USE_FREE_PROXIES', '').lower() in {'1', 'true', 'yes'}:
+        proxy = ProxyGenerator()
+        if proxy.FreeProxies(timeout=1, wait_time=30):
+            scholarly.use_proxy(proxy)
+            print('Using free proxy rotation for Google Scholar requests.')
+
+
+configure_proxy()
+
 author: dict = scholarly.search_author_id(os.environ.get('GOOGLE_SCHOLAR_ID', 'mJhOACUAAAAJ'))
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 print(json.dumps(author, indent=2))
