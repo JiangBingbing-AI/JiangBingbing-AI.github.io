@@ -11,7 +11,7 @@ author_profile: true
 <span class='anchor' id='current-students'></span>
 ## Current Students
 
-- [Jun Liu](https://scholar.google.com.hk/citations?user=C14eGxcAAAAJ&hl=zh-CN) 2024-present, M.S. student. <span style="color:#ff8c00; font-weight:600;">[PR]</span> <span style="color:#d00; font-weight:600;">[First-class Scholarship]</span>
+- [Jun Liu](https://scholar.google.com.hk/citations?user=C14eGxcAAAAJ&hl=zh-CN) 2024-present, M.S. student. <span style="color:#ff8c00; font-weight:600;">[PR*2]</span> <span style="color:#d00; font-weight:600;">[First-class Scholarship]</span>
 - Lei Huang 2025-present, M.S. student.
 
 <span class='anchor' id='alumni'></span>

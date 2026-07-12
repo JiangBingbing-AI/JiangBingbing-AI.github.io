@@ -13,14 +13,15 @@ author_profile: true
 ## 2026
 
 1. **Bingbing Jiang**, Jie Wen, Zidong Wang, Weiguo Sheng, Zhiwen Yu, Huanhuan Chen, Weiping Ding. Scalable Semi-supervised Learning with Discriminative Label Propagation and Correction. IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(6): 6156-6173, 2026.
-2. Yadi Wang, Fan Zhang, **Bingbing Jiang**\*. Robust multi-view clustering via quadratic matrix factorization with manifold learning. IEEE Transactions on Image Processing, 2026 (Accepted).
-3. Yan Zhong, Xingyu Wu, Xinping Zhao, Li Zhang, Xinyuan Song, Lei Shi, **Bingbing Jiang**. Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning. Neural Networks, 2026 (Accepted).
-4. Yadi Wang, **Bingbing Jiang**\*. Structural Feature Selection in Common Spatial Patterns Using Adaptive Sparse Group Lasso. CAAI Transactions on Intelligence Technology, 11(2): 367-384, 2026.
-5. Yang Fang, Yujie Wang, **Bingbing Jiang**, Zongyi Xu, Jiaxu Leng, Yan Zhang, Weisheng Li, Xinbo Gao. M-STEP: Multi-Scale Temporal Information Enhancement and Propagation for Hierarchical Visual Transformer Tracking. IEEE Transactions on Multimedia, 2026 (Accepted).
-6. **Bingbing Jiang**, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, et al. Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026: 508-519.
-7. Tongxue Zhou, Mingyang Li, Su Ruan, Tingjin Luo, **Bingbing Jiang**, et al. A reliable framework for brain tumor segmentation via multi-modal fusion and uncertainty modeling. Information Fusion, 129: 104085, 2026.
-8. Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, Xinyan Liang, **Bingbing Jiang**\*. Multi-View Clustering with Granularity-Aware Pseudo Supervision. AAAI Conference on Artificial Intelligence, 2026: 27538-27546.
-9. Junyi Guan, **Bingbing Jiang**, Weiguo Sheng, Yangyang Zhao, et al. Peak-Padding: Clustering by Padding Density Peaks With the Minimum Padding Cost. IEEE Transactions on Neural Networks and Learning Systems, 37(1): 342-356, 2026.
+2. Jun Liu, Chenglong Zhang\*, Tongxue Zhou, Yi Liu, Razieh Sheikhpour, Yadi Wang, Junyi Guan, Jiejiang Chen, **Bingbing Jiang**\*. Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion. Pattern Recognition, 2026 (Accepted).
+3. Yadi Wang, Fan Zhang, **Bingbing Jiang**\*. Robust multi-view clustering via quadratic matrix factorization with manifold learning. IEEE Transactions on Image Processing, 2026 (Accepted).
+4. Yan Zhong, Xingyu Wu, Xinping Zhao, Li Zhang, Xinyuan Song, Lei Shi, **Bingbing Jiang**. Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning. Neural Networks, 2026 (Accepted).
+5. Yadi Wang, **Bingbing Jiang**\*. Structural Feature Selection in Common Spatial Patterns Using Adaptive Sparse Group Lasso. CAAI Transactions on Intelligence Technology, 11(2): 367-384, 2026.
+6. Yang Fang, Yujie Wang, **Bingbing Jiang**, Zongyi Xu, Jiaxu Leng, Yan Zhang, Weisheng Li, Xinbo Gao. M-STEP: Multi-Scale Temporal Information Enhancement and Propagation for Hierarchical Visual Transformer Tracking. IEEE Transactions on Multimedia, 2026 (Accepted).
+7. **Bingbing Jiang**, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, et al. Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026: 508-519.
+8. Tongxue Zhou, Mingyang Li, Su Ruan, Tingjin Luo, **Bingbing Jiang**, et al. A reliable framework for brain tumor segmentation via multi-modal fusion and uncertainty modeling. Information Fusion, 129: 104085, 2026.
+9. Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, Xinyan Liang, **Bingbing Jiang**\*. Multi-View Clustering with Granularity-Aware Pseudo Supervision. AAAI Conference on Artificial Intelligence, 2026: 27538-27546.
+10. Junyi Guan, **Bingbing Jiang**, Weiguo Sheng, Yangyang Zhao, et al. Peak-Padding: Clustering by Padding Density Peaks With the Minimum Padding Cost. IEEE Transactions on Neural Networks and Learning Systems, 37(1): 342-356, 2026.
 
 ## 2025
 
