@@ -1,0 +1,31 @@
+<script>
+    (function () {
+        var lastUpdatedEle = document.getElementById('main-last-updated');
+        if (!lastUpdatedEle || !window.fetch) {
+            return;
+        }
+
+        fetch('https://api.github.com/repos/{{ site.repository }}/commits/main', {
+            headers: { 'Accept': 'application/vnd.github+json' }
+        })
+            .then(function (response) {
+                if (!response.ok) {
+                    throw new Error('GitHub API request failed');
+                }
+                return response.json();
+            })
+            .then(function (data) {
+                var dateValue = data && data.commit && data.commit.committer && data.commit.committer.date;
+                if (!dateValue) {
+                    return;
+                }
+                lastUpdatedEle.textContent = new Intl.DateTimeFormat('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric',
+                    timeZone: 'Asia/Shanghai'
+                }).format(new Date(dateValue));
+            })
+            .catch(function () {});
+    })();
+</script>
