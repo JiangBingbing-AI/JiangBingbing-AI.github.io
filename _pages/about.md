@@ -92,7 +92,6 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 - Senior Program Committee Member, AAAI 2027
 - Senior Program Committee Member, IJCAI 2026
 - Program Committee Member, ICML 2025/2026
-- Program Committee Member, AAAI 2023/2024/2026
 - Program Committee Member, ICLR 2025
 - Program Committee Member, NeurIPS 2024/2025/2026
 - Program Committee Member, ACM MM 2024/2025
