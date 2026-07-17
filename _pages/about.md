@@ -24,17 +24,17 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
 
-- *Jul. 2026*: Dr. Jiang has been invited to serve as a Senior Program Committee (SPC) member for AAAI.
+- *Jul. 2026*: Dr. Jiang has been invited to serve as a Senior Program Committee (SPC) member for AAAI 2027.
 - *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Scalable Semi-supervised Learning with Discriminative Label Propagation and Correction, has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence <span class="news-tag news-tag--ccf">CCF-A</span> <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, has been accepted by ACM SIGKDD 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Jun. 2026*: One paper, Robust multi-view clustering via quadratic matrix factorization with manifold learning, has been accepted by IEEE Transactions on Image Processing <span class="news-tag news-tag--ccf">CCF-A</span> <span class="news-tag news-tag--sci">SCI Q1</span>.
-- *Mar. 2026*: One paper, Multi-View Clustering with Granularity-Aware Pseudo Supervision, has been accepted by AAAI 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
 
 <details class="news-more" markdown="1">
 <summary><span class="news-more__closed">More News</span><span class="news-more__open">Hide News</span></summary>
 
 - *Jun. 2026*: One paper, Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning, has been accepted by Neural Networks <span class="news-tag news-tag--sci">SCI Q1</span>.
+- *Mar. 2026*: One paper, Multi-View Clustering with Granularity-Aware Pseudo Supervision, has been accepted by AAAI 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Jan. 2026*: One paper, M-STEP: Multi-Scale Temporal Information Enhancement and Propagation for Hierarchical Visual Transformer Tracking, has been accepted by IEEE Transactions on Multimedia <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *2026*: Dr. Jiang serves as an Associate Editor of Pattern Recognition and IEEE Signal Processing Letters.
 - *2026*: Dr. Jiang serves as an Editorial Board Member of Information Processing & Management.
@@ -89,6 +89,7 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 
 #### Program Committee Members
 
+- Senior Program Committee Member, AAAI 2027
 - Senior Program Committee Member, IJCAI 2026
 - Program Committee Member, ICML 2025/2026
 - Program Committee Member, AAAI 2023/2024/2026
