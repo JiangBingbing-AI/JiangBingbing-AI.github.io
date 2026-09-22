@@ -36,7 +36,9 @@ Some examples:
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
     1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+    1. Add a repository Actions secret named `SERPAPI_KEY` in `Settings -> Secrets and variables -> Actions`. This is a SerpApi key, not a ScraperAPI key. With this secret, the crawler uses the SerpApi Google Scholar Author API; without it, it tries the public Scholar profile pages directly, which may be blocked by Google.
+    1. Enable Actions, then open `Get Citation Data -> Run workflow` to run it after adding the secret. It also runs every Monday, Wednesday, and Friday at 08:00 UTC (16:00 China time), and when the crawler or its workflow changes on `main`. Scheduled runs may be delayed by GitHub.
+    1. Citation data is stored in `gs_data.json` and `gs_data_shieldsio.json` on the separate `google-scholar-stats` branch. Failed requests or unexpectedly large citation decreases leave the published data intact. Citation refreshes do not change `main` or the sidebar's `Last updated` date.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage

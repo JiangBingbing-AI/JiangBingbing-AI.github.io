@@ -38,7 +38,9 @@ AcadHomepage
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
     1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
-    1. 在github本仓库页面的`Action`中，点击*"I understand my workflows, go ahead and enable them"*启用workflows by clicking *"。本action将会谷歌学术引用的统计量数据`gs_data.json`到本仓库的`google-scholar-stats`分支中。每次修改main分支的内容会触发该action。本action也会在每天08:00 UTC定时触发。
+    1. 在本仓库的 `Settings -> Secrets and variables -> Actions` 中新增名为 `SERPAPI_KEY` 的 Repository secret，填入 SerpApi 密钥。它与 `SCRAPER_API_KEY` 不是同一种密钥。配置后通过 SerpApi 的 Google Scholar Author API 获取引用；未配置时尝试直接访问学术主页，可能被 Google 限制。
+    1. 启用 Actions。添加密钥后，打开 `Get Citation Data -> Run workflow` 手动运行一次。工作流也会在每周一、三、五北京时间 16:00（UTC 08:00）定时运行，以及 `main` 上的爬虫或工作流文件更新时运行；GitHub 的定时任务可能延迟。
+    1. 引用数据 `gs_data.json` 和 `gs_data_shieldsio.json` 保存到独立的 `google-scholar-stats` 分支。请求失败或引用数异常大幅下降时，不覆盖已发布数据。引用刷新不会修改 `main`，也不会影响侧边栏的 `Last updated` 日期。
 1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
 1. 修改主页配置文件[_config.yml](../_config.yml):
     1. `title`: 主页标题
