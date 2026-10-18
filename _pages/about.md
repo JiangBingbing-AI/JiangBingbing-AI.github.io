@@ -104,6 +104,10 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Fuzzy Systems
 - IEEE Transactions on Image Processing
+
+<details class="news-more" id="more-journals" markdown="1">
+<summary><span class="news-more__closed">More Journals</span><span class="news-more__open">Hide Journals</span></summary>
+
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Big Data
@@ -126,3 +130,5 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 - Expert Systems with Applications
 - Knowledge-Based Systems
 - ACM Transactions on Knowledge Discovery from Data
+
+</details>
