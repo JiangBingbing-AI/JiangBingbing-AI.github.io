@@ -24,15 +24,16 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
 
+- *Sep. 2026*: One paper, Resolution-Aware Structural Density Peak Clustering, has been accepted by NeurIPS 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Jul. 2026*: Dr. Jiang has been invited to serve as a Senior Program Committee (SPC) member for AAAI 2027.
 - *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Scalable Semi-supervised Learning with Discriminative Label Propagation and Correction, has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence <span class="news-tag news-tag--ccf">CCF-A</span> <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, has been accepted by ACM SIGKDD 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
-- *Jun. 2026*: One paper, Robust multi-view clustering via quadratic matrix factorization with manifold learning, has been accepted by IEEE Transactions on Image Processing <span class="news-tag news-tag--ccf">CCF-A</span> <span class="news-tag news-tag--sci">SCI Q1</span>.
 
 <details class="news-more" markdown="1">
 <summary><span class="news-more__closed">More News</span><span class="news-more__open">Hide News</span></summary>
 
+- *Jun. 2026*: One paper, Robust multi-view clustering via quadratic matrix factorization with manifold learning, has been accepted by IEEE Transactions on Image Processing <span class="news-tag news-tag--ccf">CCF-A</span> <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning, has been accepted by Neural Networks <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Mar. 2026*: One paper, Multi-View Clustering with Granularity-Aware Pseudo Supervision, has been accepted by AAAI 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Jan. 2026*: One paper, M-STEP: Multi-Scale Temporal Information Enhancement and Propagation for Hierarchical Visual Transformer Tracking, has been accepted by IEEE Transactions on Multimedia <span class="news-tag news-tag--sci">SCI Q1</span>.
@@ -70,8 +71,8 @@ Dr. Jiang has actively published in prestigious conferences and journals in mach
 **Note**: \* indicates the corresponding author, and † indicates equal contribution.
 
 1. **Bingbing Jiang**, Jie Wen, Zidong Wang, Weiguo Sheng, Zhiwen Yu, Huanhuan Chen, Weiping Ding. Scalable Semi-supervised Learning with Discriminative Label Propagation and Correction. IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(6): 6156-6173, 2026.
-2. Jun Liu, Chenglong Zhang\*, Tongxue Zhou, Yi Liu, Razieh Sheikhpour, Yadi Wang, Junyi Guan, Jiejiang Chen, **Bingbing Jiang**\*. Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion. Pattern Recognition, 2026 (Accepted).
-3. Yadi Wang, Fan Zhang, **Bingbing Jiang**\*. Robust multi-view clustering via quadratic matrix factorization with manifold learning. IEEE Transactions on Image Processing, 2026 (Accepted).
+2. **Bingbing Jiang**, Chenglong Zhang, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025. <strong class="publication-highlight">ESI Highly Cited Paper</strong>
+3. Yadi Wang, Fan Zhang, **Bingbing Jiang**\*. Robust multi-view clustering via quadratic matrix factorization with manifold learning. IEEE Transactions on Image Processing, 35: 7005-7017, 2026.
 4. **Bingbing Jiang**, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, et al. Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026: 508-519.
 5. **Bingbing Jiang**, Chenglong Zhang, Xinyan Liang, et al. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. AAAI Conference on Artificial Intelligence, 2025: 21411-21419.
 6. **Bingbing Jiang**, Xingyu Wu, Xiren Zhou, et al. Semi-supervised multiview feature selection with adaptive graph learning. IEEE Transactions on Neural Networks and Learning Systems, 35(3): 3615-3629, 2024.

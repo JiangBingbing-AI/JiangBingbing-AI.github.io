@@ -10,18 +10,30 @@ author_profile: true
 
 **Note**: \* indicates the corresponding author, and † indicates equal contribution.
 
+## 2027
+
+1. Junxi Liu, Yang Fang, Yu Tao, **Bingbing Jiang**, Uswah Khairuddin, Yeon Lee, Qilie Liu. [EIMa: Efficient and robust local feature matching with interleaved Mamba](https://doi.org/10.1016/j.patcog.2026.114916). Pattern Recognition, 183: 114916, 2027.
+2. Yang Fang, **Bingbing Jiang**, Haopeng Huo, Uswah Khairuddin, Yeon Lee, Yong Qin. [KD-SAM: Keep-awake and detail-enhanced segment anything model for multi-modality multi-organ medical image segmentation](https://doi.org/10.1016/j.eswa.2026.133883). Expert Systems with Applications, 333: 133883, 2027.
+
 ## 2026
 
 1. **Bingbing Jiang**, Jie Wen, Zidong Wang, Weiguo Sheng, Zhiwen Yu, Huanhuan Chen, Weiping Ding. Scalable Semi-supervised Learning with Discriminative Label Propagation and Correction. IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(6): 6156-6173, 2026.
-2. Jun Liu, Chenglong Zhang\*, Tongxue Zhou, Yi Liu, Razieh Sheikhpour, Yadi Wang, Junyi Guan, Jiejiang Chen, **Bingbing Jiang**\*. Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion. Pattern Recognition, 2026 (Accepted).
-3. Yadi Wang, Fan Zhang, **Bingbing Jiang**\*. Robust multi-view clustering via quadratic matrix factorization with manifold learning. IEEE Transactions on Image Processing, 2026 (Accepted).
-4. Yan Zhong, Xingyu Wu, Xinping Zhao, Li Zhang, Xinyuan Song, Lei Shi, **Bingbing Jiang**. Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning. Neural Networks, 2026 (Accepted).
-5. Yadi Wang, **Bingbing Jiang**\*. Structural Feature Selection in Common Spatial Patterns Using Adaptive Sparse Group Lasso. CAAI Transactions on Intelligence Technology, 11(2): 367-384, 2026.
+2. Jun Liu, Chenglong Zhang\*, Tongxue Zhou, Yi Liu, Razieh Sheikhpour, Yadi Wang, Junyi Guan, Jiejiang Chen, **Bingbing Jiang**\*. Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion. Pattern Recognition, 180: 114467, 2026.
+3. Yadi Wang, Fan Zhang, **Bingbing Jiang**\*. Robust multi-view clustering via quadratic matrix factorization with manifold learning. IEEE Transactions on Image Processing, 35: 7005-7017, 2026.
+4. Yan Zhong, Xingyu Wu, Xinping Zhao, Li Zhang, Xinyuan Song, Lei Shi, **Bingbing Jiang**. Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning. Neural Networks, 204: 109265, 2026.
+5. Yadi Wang, Jiahao Zhang, Tengfei Zhou, **Bingbing Jiang**\*, Jiejiang Chen. Structural Feature Selection in Common Spatial Patterns Using Adaptive Sparse Group Lasso. CAAI Transactions on Intelligence Technology, 11(2): 367-384, 2026.
 6. Yang Fang, Yujie Wang, **Bingbing Jiang**, Zongyi Xu, Jiaxu Leng, Yan Zhang, Weisheng Li, Xinbo Gao. M-STEP: Multi-Scale Temporal Information Enhancement and Propagation for Hierarchical Visual Transformer Tracking. IEEE Transactions on Multimedia, 2026 (Accepted).
 7. **Bingbing Jiang**, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, et al. Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026: 508-519.
 8. Tongxue Zhou, Mingyang Li, Su Ruan, Tingjin Luo, **Bingbing Jiang**, et al. A reliable framework for brain tumor segmentation via multi-modal fusion and uncertainty modeling. Information Fusion, 129: 104085, 2026.
 9. Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, Xinyan Liang, **Bingbing Jiang**\*. Multi-View Clustering with Granularity-Aware Pseudo Supervision. AAAI Conference on Artificial Intelligence, 2026: 27538-27546.
 10. Junyi Guan, **Bingbing Jiang**, Weiguo Sheng, Yangyang Zhao, et al. Peak-Padding: Clustering by Padding Density Peaks With the Minimum Padding Cost. IEEE Transactions on Neural Networks and Learning Systems, 37(1): 342-356, 2026.
+11. Jie Yang, Hsiang-Ting Chen, Yan Ma, Xinyan Liang, Avinash Singh, Liang Du, Cheng-You Lu, Chenglong Zhang, **Bingbing Jiang**, Weiping Ding, Wei Chen. [Resolution-Aware Structural Density Peak Clustering](https://neurips.cc/virtual/2026/poster/154801). Conference on Neural Information Processing Systems (NeurIPS), 2026 (Accepted).
+12. Yi Liu, **Bingbing Jiang**, Cheng Lu, Lei Xie, Weiping Ding, Dongping Zhang, Jiusun Zeng. [A Structure-Collaborative Distributed Dictionary Learning Framework for Plant-Wide Monitoring](https://doi.org/10.1109/TSMC.2026.3724321). IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026 (Early Access).
+13. Qian Guo, Gaohui Zuo, **Bingbing Jiang**, Guangrui Fan, Zhihua Cui, Xinyan Liang, Jianjian Ding. [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](https://proceedings.mlr.press/v306/guo26an.html). International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 306: 38794-38808, 2026.
+14. Li Lv, Qian Guo, Li Zhang, Liang Du, **Bingbing Jiang**, Lu Chen, Xinyan Liang. [Uncertainty-Guided View-Strength-Aware Feature Utilization for Multi-View Classification](https://doi.org/10.1609/aaai.v40i29.39599). AAAI Conference on Artificial Intelligence, 40(29): 24198-24206, 2026.
+15. Tongxue Zhou, Su Ruan, Yanda Meng, Jinming Duan, Haigen Hu, **Bingbing Jiang**, Zhiwei Ji, Bangli Liu, Tingjin Luo, Baiying Lei. [UTriGate-Net: Uncertainty-aware brain tumor segmentation via triaxial context encoding and gated modality fusion](https://doi.org/10.1016/j.eswa.2026.132258). Expert Systems with Applications, 321: 132258, 2026.
+16. Tongxue Zhou, Su Ruan, Jinming Duan, Haigen Hu, Yanda Meng, Ling Huang, Defu Yang, **Bingbing Jiang**, Tingjin Luo, Zhiwei Ji, Baiying Lei. [A hierarchical teacher-student learning framework with adaptive cross-modal fusion for brain tumor segmentation](https://doi.org/10.1016/j.eswa.2026.131371). Expert Systems with Applications, 311: 131371, 2026.
+17. Yadi Wang, Yulin Xie, Sufang Zhou, **Bingbing Jiang**, Hangjun Che. [Structural feature selection via weighted sparse regression with mutual information](https://doi.org/10.1186/s40537-025-01344-x). Journal of Big Data, 13: 12, 2026.
 
 ## 2025
 
@@ -34,6 +46,7 @@ author_profile: true
 7. Zhaolong Ling, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, Xingyu Wu, **Bingbing Jiang**, Kui Yu. Local Causal Discovery Without Causal Sufficiency. AAAI Conference on Artificial Intelligence, 2025: 18737-18745.
 8. **Bingbing Jiang**, Jun Liu, Zidong Wang, Jie Yang, Yadi Wang, Weiguo Sheng, Chenglong Zhang, Weiping Ding. Semi-supervised Multi-view Feature Selection with Adaptive Similarity Fusion and Learning. Pattern Recognition, 159: 111159, 2025.
 9. Zhaolong Ling, Jingxuan Wu, Yiwen Zhang, Peng Zhou, **Bingbing Jiang**, Kui Yu, Xindong Wu. Causal Feature Selection With Imbalanced Data. IEEE Transactions on Emerging Topics in Computational Intelligence, 9(2): 1610-1626, 2025.
+10. Xinyan Liang, Shuai Li, Qian Guo, Yuhua Qian, **Bingbing Jiang**, Tingjin Luo, Liang Du. [Improving Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias](https://papers.nips.cc/paper_files/paper/2025/hash/d33b177b69425e7685b0b1c05bd2a5e4-Abstract-Conference.html). Advances in Neural Information Processing Systems, 38 (NeurIPS 2025).
 
 ## 2024
 
